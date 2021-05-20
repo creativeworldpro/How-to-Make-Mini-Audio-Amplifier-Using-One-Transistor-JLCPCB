@@ -11,6 +11,7 @@ Do you think, about making a mini audio amplifier circuit using transistor ? The
 To contact with us : 
 
 Like our page – www.facebook.com/creativeworldpro
+
 Subscribe Our Channel – www.youtube.com/creativeworldpro
 
 
@@ -27,7 +28,9 @@ Component List :
 7. Cable
 
 Transistor Pinout – 
+
 As usual the transistor D313 also contain 3 leg & this 3 leg’s also have 3 different names. If we count it’s leg from left side, then 1no “Base”. 2no “Collector” & 3no “Emitter”
+
 
 Circuit Connection – 
 
